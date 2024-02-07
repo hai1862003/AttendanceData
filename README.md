@@ -1,4 +1,4 @@
-# AttendanceData
+#  Tutoring Attendance Data
 Hi ^^,
 # Overall
 - This is a project that analyzes data of the student visits of a tutoring service (SNACK) in my University 
