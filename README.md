@@ -6,7 +6,7 @@ Hi ^^,
 
 # Purpose/Insight
 - Figured out the distribution of student vistis through hour in a day/day in a week to optimize tutor scheduling
-- Examined demand for different type of courses for hiring purposes.
+- Examined demand for different courses and delivery methods for hiring purposes.
 
 # Languages/Platforms
 - Written in Python/Google Colab
